@@ -1,0 +1,4 @@
+{
+  "PORT": 5000,
+  "URI": "mongodb+srv://DanilDiodorov:mistletoe@cluster0.wylp1.mongodb.net/Messenger?retryWrites=true&w=majority"
+}
